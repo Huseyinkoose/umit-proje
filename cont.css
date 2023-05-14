@@ -1,0 +1,44 @@
+.box{
+
+height: auto px;
+width: 300px;
+border-radius: 10px;
+padding-top: 5px;
+padding-bottom: 1px;
+box-shadow: 0px 2px 5px 1px rgb(218, 222, 224);
+}
+
+.ortala{
+   
+    position: relative;
+    text-align: center;
+
+       
+  }
+
+.yazi-boyut{
+    font-size: 12px;
+    color: rgb(169, 174, 174);
+}
+
+.imgradius{
+
+    border-radius: 10px;
+}
+
+.a{
+
+    height: auto px;
+}
+
+.pe {
+    line-height: inherit;
+   }
+
+   .center {
+    position: absolute;
+    top: 40%;
+    
+    text-align: center;
+    
+  }   
